@@ -1,0 +1,11 @@
+autopep8==1.6.0
+certifi==2021.10.8
+charset-normalizer==2.0.9
+greenlet==1.1.2
+idna==3.3
+playwright==1.17.2
+pycodestyle==2.8.0
+pyee==8.2.2
+toml==0.10.2
+urllib3==1.26.7
+websockets==10.1

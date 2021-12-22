@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+auth.py
+documents
+.DS_Store
+__pycache__
+bin
+include
+lib
+pyvenv.cfg
